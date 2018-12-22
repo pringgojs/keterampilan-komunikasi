@@ -9,6 +9,6 @@
     <script src="main.js"></script>
 </head>
 <body>
-    <h1>Belajar GIT Secara instant</h1>
+    <h1>Belajar GIT Secara instant dan cepat</h1>
 </body>
 </html>
